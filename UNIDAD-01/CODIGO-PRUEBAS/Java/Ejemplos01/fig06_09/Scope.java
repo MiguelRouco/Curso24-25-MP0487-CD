@@ -39,6 +39,7 @@ public class Scope {
       System.out.printf(
          "field x before exiting method useField is %d%n", x);
    }
+   
 } 
 
 

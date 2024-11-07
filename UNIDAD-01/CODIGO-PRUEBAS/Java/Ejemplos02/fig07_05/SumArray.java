@@ -10,6 +10,7 @@ public class SumArray {
       for (int counter = 0; counter < array.length; counter++) {
          total += array[counter];                               
       }                                                         
+com.sun.xml.internal.stream.events
 
       System.out.printf("Total of array elements: %d%n", total);
    } 
