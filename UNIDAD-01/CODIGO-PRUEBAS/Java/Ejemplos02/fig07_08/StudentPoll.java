@@ -18,8 +18,12 @@ public class StudentPoll {
             System.out.println(e); // invokes toString method
             System.out.printf("   responses[%d] = %d%n%n",           
                answer, responses[answer]);                           
-         }                                                           
-      }                                                              
+         }     
+         
+         
+         preparing
+      }                
+                                                    
 
       System.out.printf("%s%10s%n", "Rating", "Frequency");
    
